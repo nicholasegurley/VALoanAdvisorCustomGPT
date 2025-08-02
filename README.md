@@ -6,7 +6,7 @@ The **VA Loan Advisor** is a CustomGPT assistant designed to help military membe
 
 Link [https://chatgpt.com/g/g-688cc8048df88191b076cf9c2b8ddfe1-va-loan-advisor](https://chatgpt.com/g/g-688cc8048df88191b076cf9c2b8ddfe1-va-loan-advisor)
 
-**Disclaimer:**  The VA Loan process may change based on Congressional action, secondary market reaction, and other factors.  Information provided is for informational purposes only.  Users should validate this information with their licensed tax professional, legal advisor, and mortgage professional.  Use this information at your own risk.
+**Disclaimer:**  The VA Loan Advisor CustomGPT is not an official VA site and is not endorsed by the VA.  The VA Loan process may change based on Congressional action, secondary market reaction, and other factors.  Information provided is for informational purposes only.  Users should validate this information with their licensed tax professional, legal advisor, and mortgage professional.  Use this information at your own risk.
 
 ## **VA Loan Advisor** CustomGPT Features
 
